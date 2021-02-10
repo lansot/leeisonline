@@ -46,6 +46,7 @@ footer {
     padding: 1rem;
 }
 
-address {
+address, a {
     color: var(--color2);
+    text-decoration: none;
 }
